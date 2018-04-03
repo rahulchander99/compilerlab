@@ -1,0 +1,1 @@
+Generating three address statements for a given expression working for all arithmetic operators.

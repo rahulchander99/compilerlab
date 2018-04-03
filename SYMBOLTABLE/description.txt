@@ -1,0 +1,1 @@
+Generating symbol table for datatypes int, float, char and double.

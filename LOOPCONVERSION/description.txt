@@ -1,0 +1,1 @@
+Converting given for and do while program into while program.
